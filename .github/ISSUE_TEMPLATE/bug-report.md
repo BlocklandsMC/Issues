@@ -28,6 +28,7 @@ If applicable, add screenshots to help explain your problem.
 **Add the following information if relevant**
  - Platform: [either Java or Bedrock]
  - Username [if relevant]
+ - Gamemode [Oneblock, Earth, or both]
 
 **Additional context**
 Add any other context about the problem here.
