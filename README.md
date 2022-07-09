@@ -2,6 +2,7 @@
 <img src="BL.png" alt="Logo" width="500"/>
 
 # BL Issues
+A public repo to report & organize bug reports containing as much information as possible.
 To create an issue:
 - Click `Issues` at the top
 - Click `New Issue`
