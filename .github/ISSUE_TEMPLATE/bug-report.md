@@ -16,7 +16,7 @@ Steps to reproduce the behavior:
 2. [EXAMPLE] Type /ban Steve
 3. [EXAMPLE] You are able to ban steve without having any permissions
 
-**Expected Vehavior**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
 
 **Actual Behavior**
