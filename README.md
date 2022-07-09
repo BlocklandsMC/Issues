@@ -1,3 +1,3 @@
 # Issues
 Public repo for users to report issues
-![BL Logo](BL.png)
+<img src="BL.png" alt="Logo" width="200"/>
