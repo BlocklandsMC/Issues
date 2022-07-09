@@ -4,6 +4,7 @@
 # BL Issues
 A public repo to report & organize bug reports containing as much information as possible.
 To create an issue:
+- (Create a Github account; takes about 30 seconds)
 - Click `Issues` at the top
 - Click `New Issue`
 - Click `Bug Report`
