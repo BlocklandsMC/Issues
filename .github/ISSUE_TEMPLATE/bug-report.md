@@ -23,6 +23,7 @@ If applicable, add screenshots to help explain your problem.
  - Platform: [either Java or Bedrock]
  - Username [if relevant]
  - Gamemode [Oneblock, Earth, or both]
+ - Are there any errors in chat [e.g. "No permission"]
 
 **Additional context**
 Add any other context about the problem here.
